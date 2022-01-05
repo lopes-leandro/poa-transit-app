@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'poa-transit-app';
+  title = 'Porto Alegre Transportes - Planeje Sua Viagem';
 }
